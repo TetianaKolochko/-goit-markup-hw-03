@@ -422,7 +422,7 @@ img {
 }
 
 .button-portfolio {
-  border: transparent;
+  border-color: transparent;
   padding: 6px 22px;
   border-radius: 4px;
 
